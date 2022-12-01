@@ -5,4 +5,7 @@
   </p>
   </p>
 </div>
-Bluehat은 나만의 동물캐릭터를 통해서, 마을의 물건을 먹어 치우며 성장하여, 에테르를 획득하고, 에테르를 통해서 나만의 동물을 꾸며가는 게임입니다. 마을의 물건를 먹어치워 나만의 NFT 동물들을 획득하고, 마켓에서 NFT동물들을 거래할 수 있습니다.
+
+It's a cute and scary game that eats up the village with small animal friends. You can synthesize the animals you have and express your personality with various hat items.
+
+Own my one and only animals as NFT, and check them out in the Klaytn blockchain.
