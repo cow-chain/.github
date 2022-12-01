@@ -1,7 +1,7 @@
 # Bluehat Games
 <div align="center">
   <br/>
-  <img src="https://github.com/seonghun-dev/seonghun-dev.github.io/blob/main/images/Bluehat/bluehat-games-main.jpg?raw=true"/>
+  <img src="https://github.com/Blue-Hat-Games/.github/blob/main/src/img/bluehat_main.png?raw=true"/>
   </p>
   </p>
 </div>
