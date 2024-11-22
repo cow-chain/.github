@@ -1,4 +1,4 @@
-# Bluehat Games
+# CowChain
 <div align="center">
   <br/>
   <img src="https://github.com/Blue-Hat-Games/.github/blob/main/src/img/explain/Untitled_page-0001.jpg?raw=true"/>
